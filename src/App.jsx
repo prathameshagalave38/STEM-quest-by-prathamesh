@@ -28,7 +28,9 @@ import AuthPage from './AuthPage'
 // ─────────────────────────────────────────────────────────────────────────────
 const API_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
   ? 'http://localhost:8000'
-  : 'https://deployment-project-backend.onrender.com'
+  : 'https://deployment-project-backend-1.onrender.com'
+
+  // hear this is changed link by external link for backend connect
 
 function App() {
   // ─── Auth State ──────────────────────────────────────────────────────────
