@@ -3,7 +3,8 @@
 A modern, secure, and scalable community management platform designed to simplify residential society operations. NeighbourLink V1 provides a centralized solution for managing societies, buildings, residents, visitors, complaints, maintenance, notices, and more through an intuitive web interface.
 
 ---
-<img width="924" height="228" alt="image" src="https://github.com/user-attachments/assets/6970673f-7d12-4784-ba8c-54e3495eb69a" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/dd739982-3d91-45f3-8331-f46ec581d24e" />
+
 
 
 ## 🌐 Live Demo
